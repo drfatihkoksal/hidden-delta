@@ -1,0 +1,6 @@
+# HIDDEN-DELTA dondurma özetleri (sha256sum -c FROZEN.sha256 ile doğrulanır)
+# 2026-11-08: analiz planı v1.0 dondu (özet d21db531…); aynı gün, sonuç görülmeden v1.1 (§5.2 ölçütü) ile değiştirildi
+# 2026-11-08: analiz planı v1.1 (dondurulmuş kopya)
+31bce3dad6c44bcf4c6990255db6bafd70dc20b59828626468a4daa6550e7d81  frozen/ANALYSIS_PLAN_v1.1.md
+# 2026-11-08: analiz planı v1.2 (IAB okuma dışlaması; sonuç görülmeden)
+48e27bfd5aa496fc2149a72239a6c4052900faf4f75880f391a4302dac0b34f3  frozen/ANALYSIS_PLAN_v1.2.md

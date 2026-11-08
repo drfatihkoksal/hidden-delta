@@ -1,0 +1,170 @@
+{
+ "n_ecg": 800035,
+ "n_pat": 161352,
+ "n_ecg_age_missing": 54,
+ "ecg_date_range": [
+  "2087-05-08 00:05:00",
+  "2224-04-14 02:31:00"
+ ],
+ "n_t0_ecg": 555605,
+ "n_t0_pat": 141638,
+ "regex": [
+  [
+   "Concept regex (preeksitasyon ifadesi VEYA k\u0131sa PR)",
+   11984,
+   7446
+  ],
+  [
+   "Preeksitasyon ifadesi (kat\u0131: WPW/Wolff/pre-excit/delta)",
+   713,
+   506
+  ],
+  [
+   "Yaln\u0131zca k\u0131sa PR (preeksitasyon ifadesi yok)",
+   11271,
+   7077
+  ]
+ ],
+ "n_pat_spr_never_pre": 6940,
+ "cand_strict": [
+  352,
+  3562,
+  487,
+  293,
+  298,
+  22
+ ],
+ "pat_pre_any": [
+  506,
+  473
+ ],
+ "icd_pre": [
+  178,
+  139,
+  45,
+  80
+ ],
+ "spr_only_pool": [
+  5345,
+  46689
+ ],
+ "pool_union": 432,
+ "cand_age": [
+  61.0,
+  18,
+  92
+ ],
+ "abl_any": [
+  1695,
+  1478
+ ],
+ "abl_ap": [
+  39,
+  18,
+  21,
+  23,
+  9,
+  6,
+  5,
+  2
+ ],
+ "abl_ap_in_cand": 14,
+ "filter_all": [
+  [
+   "60 Hz notch Baseline filter",
+   "0.005-150 Hz",
+   622477
+  ],
+  [
+   "<not specified>",
+   "0.0005-150 Hz",
+   107398
+  ],
+  [
+   "60 Hz notch Baseline filter",
+   "0.05-150 Hz",
+   51006
+  ],
+  [
+   "Baseline filter",
+   "0.005-150 Hz",
+   12505
+  ],
+  [
+   "60 Hz notch Baseline filter",
+   "0.0005-150 Hz",
+   3932
+  ],
+  [
+   "50 Hz notch Baseline filter",
+   "0.005-150 Hz",
+   2215
+  ],
+  [
+   "50 Hz notch Baseline filter",
+   "0.05-150 Hz",
+   502
+  ]
+ ],
+ "filter_cand": [
+  [
+   "60 Hz notch Baseline filter",
+   "0.005-150 Hz",
+   3241
+  ],
+  [
+   "<not specified>",
+   "0.0005-150 Hz",
+   411
+  ],
+  [
+   "60 Hz notch Baseline filter",
+   "0.05-150 Hz",
+   289
+  ],
+  [
+   "Baseline filter",
+   "0.005-150 Hz",
+   67
+  ],
+  [
+   "60 Hz notch Baseline filter",
+   "0.0005-150 Hz",
+   20
+  ],
+  [
+   "50 Hz notch Baseline filter",
+   "0.005-150 Hz",
+   15
+  ],
+  [
+   "50 Hz notch Baseline filter",
+   "0.05-150 Hz",
+   6
+  ]
+ ],
+ "carts": [
+  156,
+  128
+ ],
+ "k2": [
+  2392,
+  22833,
+  268,
+  214
+ ],
+ "svt_all": 4040,
+ "note_seconds": 1,
+ "k2_notes": [
+  2198,
+  178,
+  14,
+  34,
+  1972,
+  10,
+  434,
+  178,
+  12
+ ],
+ "runtime_s": 2
+}

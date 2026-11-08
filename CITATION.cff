@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "HIDDEN-DELTA: code for a preregistered test of detecting intermittent ventricular pre-excitation from pre-excitation-free 12-lead ECGs"
+authors:
+  - family-names: "Köksal"
+    given-names: "Fatih"
+    orcid: "https://orcid.org/0000-0002-4197-4683"
+    affiliation: "Department of Cardiology, University of Health Sciences, Bursa Yüksek İhtisas Training and Research Hospital, Bursa, Türkiye"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/drfatihkoksal/hidden-delta"
+keywords:
+  - electrocardiography
+  - ventricular pre-excitation
+  - Wolff-Parkinson-White syndrome
+  - deep learning
+  - preregistration
+references:
+  - type: generic
+    title: "HIDDEN-DELTA preregistration (Open Science Framework)"
+    doi: "10.17605/OSF.IO/GCVJT"

@@ -1,0 +1,48 @@
+{
+ "MIMIC": {
+  "site": "MIMIC",
+  "note": "kayıt sonrası referans; resmî sonuçlardan sonra yazıldı",
+  "controls": {
+   "n": 429,
+   "mean_r": 0.3987093167624868,
+   "perm_mean_r": 0.14582623180929125,
+   "p_one_sided": 9.999000099990002e-05,
+   "n_other_ecg_median": 5.0
+  },
+  "cases": {
+   "n": 78,
+   "mean_r": 0.38966755954488835,
+   "perm_mean_r": 0.11100837068781652,
+   "p_one_sided": 9.999000099990002e-05,
+   "n_other_ecg_median": 5.0
+  },
+  "registered_5_3": {
+   "n": 102,
+   "mean_r": 0.22828857765065574,
+   "perm_mean_r": 0.03981050041408863
+  }
+ },
+ "I0006": {
+  "site": "I0006",
+  "note": "kayıt sonrası referans; resmî sonuçlardan sonra yazıldı",
+  "controls": {
+   "n": 605,
+   "mean_r": 0.45194529421026747,
+   "perm_mean_r": 0.16649156186712472,
+   "p_one_sided": 9.999000099990002e-05,
+   "n_other_ecg_median": 2.0
+  },
+  "cases": {
+   "n": 103,
+   "mean_r": 0.5239995303676833,
+   "perm_mean_r": 0.1754297349214031,
+   "p_one_sided": 9.999000099990002e-05,
+   "n_other_ecg_median": 2.0
+  },
+  "registered_5_3": {
+   "n": 167,
+   "mean_r": 0.32103523493332287,
+   "perm_mean_r": 0.1719490220140056
+  }
+ }
+}

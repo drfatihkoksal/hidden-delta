@@ -1,0 +1,56 @@
+# HIDDEN-DELTA model dondurma manifesti (sha256sum -c FROZEN_MANIFEST.sha256 ile doğrulanır)
+# plan ve kod (proje içi göreli yol)
+48e27bfd5aa496fc2149a72239a6c4052900faf4f75880f391a4302dac0b34f3  frozen/ANALYSIS_PLAN_v1.2.md
+f5d454d14ff8a09e4b49b523e5e1ba76b0ebd5ad26bc514d78fdc064684530d2  stage0/common.py
+045620097fed4372a062312b07f9ed65e2f496d9681083c8da442ec02a882748  stage0/s0_mimic.py
+56fd0c11c6df3f57f8dd8281de46fd2ca653d0d1d8c174d257a66c8438446ae3  stage0/s0_heedb.py
+433a2fb27cf6049659d49b3628789ed5973361d9fbe025eb71611898fe864a32  stage1/s1_labels.py
+5fe99d1b5353c0283920207b7ad87cba42458a8616a7a580322dbe42ba3c7eee  stage2/hdsig.py
+81dd7c5172e41a7089384c557bed01271d95316e1f8c834aa918ea6cb044cbc7  stage2/s2_extract.py
+bd02f67d70bbb68f1c9cc32c0b2d02516473bd07edbfad5c21db3a366132ddaf  stage3/s3_match.py
+301e5c880851d81942f0ef93cdefabba87e30542bcec85d1d38971f55e3a976d  stage3/s3_iab_overlap.py
+cdbaec0fa6be1d44dff9a2f152592e76c9d3b281d2e5401a8b45b39b6ee8474b  stage4/s4_data.py
+d6d51fbf5eac760c62378c4fc9df4eeffbad7215d6a6bc59d3a9a9ef034018d4  stage4/m0lib.py
+37250dfa9f9aff7b7648a66613ac258218343ca660d4031e3548957c1e756b3f  stage4/statlib.py
+a2109e9730c4376393731bbe2d69073f650aa525fa88a990e9758eceff226971  stage4/s4_m0.py
+a4fc2b97dbefd6b1a24dd15e64c377b94959facd4bc3ec6eac6b1ec552cb7eeb  stage4/s4_m1.py
+4a2705f5f7cf0cbf424645c83cb42be26e46cb4042af6070430c81a9f13ec5d5  stage4/s4_m2.py
+726201dc1a8fabacf8ed5f5b900ae71099cbf36ec010f739327b01a1997159d4  stage4/s4_m1raw.py
+a1116668d86be9a334db7485c925d684b47b1abc201d37d3f8904d529ed9048b  stage5/common5.py
+daf5128a8cbba5d446ece29526baf96a860112cf5771e66ad8ae3d9ea127b57d  stage5/s5_prepare.py
+9269d9047d69ea4170d615aa28c13de3a064135eec5d93a8316ad7bd26c7f4af  stage5/s5_score.py
+1b71fde8ef24b815650b170d168491fcff77532bdf63839b2ced00e0115f54b2  stage5/s5_analysis.py
+728c8bdbac32a05408ec85643b4563d5a9b155717947cac0b730b2011218db09  stage5/s5_freeze.py
+# final modeller, kalibrasyon, eşik (mutlak yol)
+901df1f90ba69d77b27cdf9a77d2a4c82a1241d06ca99a65ee9330f132a5d7f0  /home/fatih/data/hidden-delta/stage4/m1/final_encoder.pt
+6d7243ffaa5189ceb687fbbd47a08da483f7afa44c25e628dff0dcd5f667dae4  /home/fatih/data/hidden-delta/stage4/m1/final_probe.npz
+ce4902a43cf1b654344609c440b7a90818c926c86786111a97516ac42c38959e  /home/fatih/data/hidden-delta/stage4/m1/final_meta.json
+2a1ce0182de5cefffa8a64c6a04691541f6203ab27f720876b0ffb12a1e3c757  /home/fatih/data/hidden-delta/stage4/final/M0.json
+303d5a9e5a68a028e15d18659d7bdf26e02039bcd7d4fb43b2aa46dbe516d607  /home/fatih/data/hidden-delta/stage4/final/M-demo.json
+563da4a94829556d4f6c1f3b2f72a5fd4b8b92c4d7f764d1e9367a39279c4419  /home/fatih/data/hidden-delta/stage4/final/M2.json
+faff395e8646e15ab300c0049a692e549463700578f64b76a63021d7e0cbd052  /home/fatih/data/hidden-delta/stage4/m1raw/final_encoder.pt
+ae85186bb4f765ede7c87319bbd3bda63b8de14015f26bfe0d83751fd531a5f7  /home/fatih/data/hidden-delta/stage4/m1raw/final_probe.npz
+f038779afd72162b94fd0d98b3c3305e7270e1cb920219f01023946f6644d0b2  /home/fatih/data/hidden-delta/stage4/m1raw/final_meta.json
+# test girdileri: eşleşmiş kümeler, indeks EKG'leri, T2 profilleri (mutlak yol)
+24340b40ff300b3994d9830fd2d66b9b3f1496f6a354685b9c529b31ef7c213a  /home/fatih/data/hidden-delta/stage5/MIMIC/sets.parquet
+d88e7d79fc5545e3dc6338c7d72a05796219866797c401e0a845dab058cc05b3  /home/fatih/data/hidden-delta/stage5/MIMIC/index.parquet
+5de1903cbaccd0683de3ae88189c1ad233c8d2b28757125129687de5adf49c80  /home/fatih/data/hidden-delta/stage5/MIMIC/index_mb.npy
+9db98f29f7c29012c770e076b5e2454689591294e5923e67c201e6c80cb94b03  /home/fatih/data/hidden-delta/stage5/MIMIC/t2.parquet
+be3ed3f5435d7bf87bad6588ae09750242aafbb2dd0b65ae0ffa2060ee1a8658  /home/fatih/data/hidden-delta/stage5/MIMIC/agg.parquet
+2330f321e4ecb49bf149b2f2a4b86e79e5bc43e5e63c7a8bd73641aea1a6fb02  /home/fatih/data/hidden-delta/stage5/MIMIC/agg_mb.npy
+6cb93aa40d6d666701d8d52c34af4bb20adacbd9aa0706f412114d9da26a0727  /home/fatih/data/hidden-delta/stage5/MIMIC/index_raw.npy
+64b3427b4a10a19ea31030a7f8a7e277b764ebae8653fb7f01875fdeeea5bfb3  /home/fatih/data/hidden-delta/stage5/MIMIC/index_raw_ok.npy
+afb0e0d76a40fbe6cfacd05b9979236b5d2e465a3f51db79ddd6da54edeaa776  /home/fatih/data/hidden-delta/stage5/I0006/sets.parquet
+a3d2703e17bbb7d71cd59e4ce5ea129222d9381bdfe5ce0ed0b0854781353a17  /home/fatih/data/hidden-delta/stage5/I0006/index.parquet
+5f96d5dd4b3e9f4d1924e15db28602f6c7da7260d632804d899b88a948f8a80a  /home/fatih/data/hidden-delta/stage5/I0006/index_mb.npy
+7efdb0cba06cf32674afd38bd17286982457d652babc652b618f50cbad02320c  /home/fatih/data/hidden-delta/stage5/I0006/t2.parquet
+2c07797e01cf0b13faf5dbabdf49a9ad55c078bd160fcb0ba60a0db9e4d03515  /home/fatih/data/hidden-delta/stage5/I0006/agg.parquet
+129dcb7877e26daa00d116bcbb411ae96c05f27b3ddb8a3c16c9d52e50795b33  /home/fatih/data/hidden-delta/stage5/I0006/agg_mb.npy
+920fb72e7e6d48f38fd1c244a76c14a9883a89fca73d0d1463107cda8ffc2446  /home/fatih/data/hidden-delta/stage5/I0006/index_raw.npy
+f18f4994b12a8619ad710709a509edace1770e7f368d759a8e59ed8ddb7759de  /home/fatih/data/hidden-delta/stage5/I0006/index_raw_ok.npy
+5b75954d65475a9b77cfbf89182f277f2d1565f2286d9e7388d1c39e4f10dbbd  /home/fatih/data/hidden-delta/stage5/MIMIC/h3.parquet
+152f41e3c60fa7ef539309912f219f424d3108080466e280a4a5dcc41f9adb81  /home/fatih/data/hidden-delta/stage5/MIMIC/h3_mb.npy
+da681d45b0730981f443d096717cfd69dadf8aed2b7db129362686eabc50f5e0  /home/fatih/data/hidden-delta/stage5/I0006/alt.parquet
+c7d3acfb2f2cc2152a3a6aaa49a6eb74f9abed8a8bd80439864c3737ff9e32c7  /home/fatih/data/hidden-delta/stage3/MIMIC_matched.parquet
+da75def3f840dce6ff2a2210e6dba6ec58049eaa4ebac102905cc9bb6a303cfc  /home/fatih/data/hidden-delta/stage3/I0006_matched.parquet
+60eceacfffcdcfb5936a7ebbed5ef4299ccb2f4c70fd6ee14ba2b5138b399f5c  /home/fatih/data/hidden-delta/stage3/iab_read_patients.parquet

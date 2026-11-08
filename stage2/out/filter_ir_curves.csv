@@ -1,0 +1,280 @@
+veri,grup,t_ms,h
+Emory,Emory,-30,0.0
+Emory,Emory,-28,0.0
+Emory,Emory,-26,0.0
+Emory,Emory,-24,0.0
+Emory,Emory,-22,0.0
+Emory,Emory,-20,0.0
+Emory,Emory,-18,0.0
+Emory,Emory,-16,0.0
+Emory,Emory,-14,0.0
+Emory,Emory,-12,0.0
+Emory,Emory,-10,0.0
+Emory,Emory,-8,0.0
+Emory,Emory,-6,-0.0029882257548648266
+Emory,Emory,-4,0.0
+Emory,Emory,-2,0.04135725046877554
+Emory,Emory,0,1.0
+Emory,Emory,2,0.027369985508514223
+Emory,Emory,4,-0.14443370053705973
+Emory,Emory,6,-0.033899820675546255
+Emory,Emory,8,0.03628069081472206
+Emory,Emory,10,-0.04378392264397652
+Emory,Emory,12,-0.03731421388285297
+Emory,Emory,14,0.00545043989604677
+Emory,Emory,16,-0.004857051533181554
+Emory,Emory,18,-0.013311032572623976
+Emory,Emory,20,0.00108972612129696
+Emory,Emory,22,-0.0023533648324477576
+Emory,Emory,24,-0.007290837876294155
+Emory,Emory,26,-0.002458226513209331
+Emory,Emory,28,-0.002256700094029736
+Emory,Emory,30,-0.004629864048726916
+MGH,MGH,-30,0.0
+MGH,MGH,-28,0.0
+MGH,MGH,-26,0.0
+MGH,MGH,-24,0.0
+MGH,MGH,-22,0.0
+MGH,MGH,-20,0.0
+MGH,MGH,-18,0.0
+MGH,MGH,-16,0.0
+MGH,MGH,-14,0.0
+MGH,MGH,-12,0.0
+MGH,MGH,-10,0.0
+MGH,MGH,-8,0.0
+MGH,MGH,-6,-0.0011891295873062207
+MGH,MGH,-4,-0.0020119189144664263
+MGH,MGH,-2,0.008346718310326153
+MGH,MGH,0,1.0
+MGH,MGH,2,0.0019557817439340647
+MGH,MGH,4,-0.005027653357329907
+MGH,MGH,6,-0.0026002418238417983
+MGH,MGH,8,0.0
+MGH,MGH,10,-0.005797235050562436
+MGH,MGH,12,-0.006989096425001542
+MGH,MGH,14,-0.0024912940917021817
+MGH,MGH,16,-0.0035070034409717967
+MGH,MGH,18,-0.00564427465480855
+MGH,MGH,20,-0.0031859616119532873
+MGH,MGH,22,-0.003059650234083629
+MGH,MGH,24,-0.004699190446126839
+MGH,MGH,26,-0.003954038182755113
+MGH,MGH,28,-0.005047956864303991
+MGH,MGH,30,-0.005015065316572856
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-30,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-28,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-26,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-24,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-22,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-20,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-18,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-16,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-14,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-12,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-10,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-8,0.036851967520299816
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-6,0.03517587939698493
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-4,-0.14473684210526316
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,-2,0.3129150761646065
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,0,1.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,2,0.13474494130598666
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,4,-0.6116504854368932
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,6,-0.185037627268703
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,8,-0.04687500000000001
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,10,-0.10130137766703158
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,12,-0.06521739130434782
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,14,-0.039898132427843805
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,16,0.0
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,18,0.01666666666666666
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,20,0.020467836257309944
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,22,0.04918032786885246
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,24,0.0568181818181818
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,26,0.0625
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,28,0.10588235294117647
+MIMIC,50 Hz notch Baseline filter | 0.005-150 Hz,30,0.1320754716981132
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-30,0.012658227848101267
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-28,0.012658227848101267
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-26,0.01
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-24,0.0
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-22,-0.006540418073782752
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-20,0.0
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-18,0.0
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-16,0.0
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-14,0.006993006993006994
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-12,0.008849557522123902
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-10,0.0
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-8,0.038843721770551065
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-6,0.04162323674518799
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-4,-0.10937500000000001
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,-2,0.5654520917678812
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,0,1.0
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,2,0.331759557807462
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,4,-0.6362637362637363
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,6,-0.16279069767441862
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,8,0.015625000000000003
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,10,-0.1090909090909091
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,12,-0.1543878656554713
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,14,-0.1155844155844156
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,16,-0.09605263157894739
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,18,-0.05195681511470985
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,20,-0.00714285714285714
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,22,0.02744360902255639
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,24,0.03409090909090909
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,26,0.24050632911392406
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,28,0.3694670280036134
+MIMIC,50 Hz notch Baseline filter | 0.05-150 Hz,30,0.3597387255923842
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-30,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-28,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-26,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-24,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-22,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-20,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-18,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-16,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-14,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-12,-3.00060276925718e-16
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-10,-0.0011037527593818978
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-8,0.032679738562091505
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-6,0.023558617894416864
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-4,-0.15305895439377087
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,-2,0.2906319045514803
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,0,1.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,2,-0.026505658084605456
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,4,-0.7599942088785131
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,6,-0.13793103448275862
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,8,0.000353857041755131
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,10,-0.020914020139426805
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,12,-0.01637044294840053
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,14,-0.0011101351681061834
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,16,0.0
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,18,0.002516338008565988
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,20,0.002242152466367713
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,22,0.004728132387706856
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,24,0.00414464670189861
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,26,0.004127036562928705
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,28,0.005852340936374555
+MIMIC,60 Hz notch Baseline filter | 0.0005-150 Hz,30,0.004914731081563256
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-30,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-28,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-26,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-24,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-22,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-20,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-18,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-16,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-14,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-12,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-10,0.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-8,0.03335587246946971
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-6,0.030175012820322193
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-4,-0.1366749688667497
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,-2,0.2706787803281878
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,0,1.0
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,2,0.13593635451956088
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,4,-0.6238082415150922
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,6,-0.15234845644294465
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,8,-0.046464475657902495
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,10,-0.08427130546695763
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,12,-0.04607325523840951
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,14,-0.01231819179284617
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,16,-0.0006166681680354975
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,18,0.00895351499885505
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,20,0.009774338775006318
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,22,0.018445929357657258
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,24,0.037958671887446845
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,26,0.04400895350748592
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,28,0.05947072089871386
+MIMIC,60 Hz notch Baseline filter | 0.005-150 Hz,30,0.07200139371775152
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-30,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-28,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-26,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-24,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-22,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-20,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-18,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-16,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-14,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-12,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-10,0.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-8,0.032679738562091505
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-6,0.03211284513805522
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-4,-0.15151515151515152
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,-2,0.2994402985074628
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,0,1.0
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,2,0.029722029722029718
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,4,-0.6397515527950312
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,6,-0.1513203214695752
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,8,-0.026490066225165573
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,10,-0.06669854294557383
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,12,-0.046587410490873234
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,14,-0.012788902920600554
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,16,0.0022599864987819535
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,18,0.009049773755656104
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,20,0.03553299492385787
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,22,0.046071244855967086
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,24,0.05263157894736841
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,26,0.06976744186046513
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,28,0.07906976744186048
+MIMIC,60 Hz notch Baseline filter | 0.05-150 Hz,30,0.08438645487868737
+MIMIC,<not specified> | 0.0005-150 Hz,-30,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-28,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-26,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-24,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-22,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-20,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-18,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-16,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-14,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-12,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-10,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-8,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-6,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,-4,-0.06542692416525184
+MIMIC,<not specified> | 0.0005-150 Hz,-2,0.13711185933408157
+MIMIC,<not specified> | 0.0005-150 Hz,0,1.0
+MIMIC,<not specified> | 0.0005-150 Hz,2,0.0
+MIMIC,<not specified> | 0.0005-150 Hz,4,-0.6050947020459216
+MIMIC,<not specified> | 0.0005-150 Hz,6,-0.2356815066452113
+MIMIC,<not specified> | 0.0005-150 Hz,8,-0.11981094885506649
+MIMIC,<not specified> | 0.0005-150 Hz,10,-0.07504690431519699
+MIMIC,<not specified> | 0.0005-150 Hz,12,-0.05064169997896066
+MIMIC,<not specified> | 0.0005-150 Hz,14,-0.020833333333333336
+MIMIC,<not specified> | 0.0005-150 Hz,16,-0.0023215202876219823
+MIMIC,<not specified> | 0.0005-150 Hz,18,0.00020576131687242787
+MIMIC,<not specified> | 0.0005-150 Hz,20,0.012175324675324676
+MIMIC,<not specified> | 0.0005-150 Hz,22,0.034374999999999996
+MIMIC,<not specified> | 0.0005-150 Hz,24,0.04631398013750955
+MIMIC,<not specified> | 0.0005-150 Hz,26,0.061703431372549
+MIMIC,<not specified> | 0.0005-150 Hz,28,0.07686516993582211
+MIMIC,<not specified> | 0.0005-150 Hz,30,0.09247057616622834
+MIMIC,Baseline filter | 0.005-150 Hz,-30,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-28,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-26,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-24,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-22,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-20,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-18,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-16,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-14,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-12,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-10,0.0
+MIMIC,Baseline filter | 0.005-150 Hz,-8,0.03225806451612903
+MIMIC,Baseline filter | 0.005-150 Hz,-6,0.03125000000000001
+MIMIC,Baseline filter | 0.005-150 Hz,-4,-0.14792899408284024
+MIMIC,Baseline filter | 0.005-150 Hz,-2,0.2956989247311828
+MIMIC,Baseline filter | 0.005-150 Hz,0,1.0
+MIMIC,Baseline filter | 0.005-150 Hz,2,0.08724832214765103
+MIMIC,Baseline filter | 0.005-150 Hz,4,-0.6578626574563187
+MIMIC,Baseline filter | 0.005-150 Hz,6,-0.1818181818181818
+MIMIC,Baseline filter | 0.005-150 Hz,8,-0.05789825970548863
+MIMIC,Baseline filter | 0.005-150 Hz,10,-0.07753553712118055
+MIMIC,Baseline filter | 0.005-150 Hz,12,-0.044075900194232784
+MIMIC,Baseline filter | 0.005-150 Hz,14,-0.01154940444615904
+MIMIC,Baseline filter | 0.005-150 Hz,16,0.0068846815834767705
+MIMIC,Baseline filter | 0.005-150 Hz,18,0.020975861623854397
+MIMIC,Baseline filter | 0.005-150 Hz,20,0.03303810093756234
+MIMIC,Baseline filter | 0.005-150 Hz,22,0.038461538461538464
+MIMIC,Baseline filter | 0.005-150 Hz,24,0.052631578947368425
+MIMIC,Baseline filter | 0.005-150 Hz,26,0.06730769230769232
+MIMIC,Baseline filter | 0.005-150 Hz,28,0.08464005702067001
+MIMIC,Baseline filter | 0.005-150 Hz,30,0.08841843088418429

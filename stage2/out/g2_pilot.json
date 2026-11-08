@@ -1,0 +1,95 @@
+{
+ "pilot": {
+  "n_vaka": 30,
+  "n_kontrol": 150,
+  "lob_vaka": 0.9,
+  "lob_kontrol": 0.8266666666666667,
+  "lob_fark": 0.07333333333333336,
+  "lob_fark_ci": [
+   -0.053,
+   0.193
+  ],
+  "lob_n_vaka": 27,
+  "gibbs_vaka": 0.1111111111111111,
+  "delta_vaka": 0.3333333333333333,
+  "kararsiz_vaka": 0.5555555555555556,
+  "pq_mag_medyan_vaka": 0.07808008562064514,
+  "slow_init_medyan_vaka": 12.0,
+  "septal_q_yok_vaka": 0.03333333333333333,
+  "q_V6_var_vaka": 0.8333333333333334,
+  "yas_medyan_vaka": 60.93634496919918,
+  "hr_medyan_vaka": 80.78180240279148,
+  "lob_n_kontrol": 124,
+  "gibbs_kontrol": 0.08870967741935484,
+  "delta_kontrol": 0.28225806451612906,
+  "kararsiz_kontrol": 0.6290322580645161,
+  "pq_mag_medyan_kontrol": 0.040252513807418136,
+  "slow_init_medyan_kontrol": 10.0,
+  "septal_q_yok_kontrol": 0.06,
+  "q_V6_var_kontrol": 0.76,
+  "yas_medyan_kontrol": 61.34017796030116,
+  "hr_medyan_kontrol": 74.03897339445183,
+  "slow_init_fark_ci": [
+   -2.0,
+   4.0
+  ],
+  "uyum_tum": [
+   0.2945675446218774,
+   0.2238947310251833,
+   0.1207879212078792
+  ],
+  "uyum_loblu": [
+   0.3514177406170627,
+   0.24217864416659177,
+   0.043695630436956304
+  ],
+  "kontrol_rastgele_delta_corr": 0.19850310358439566,
+  "karar": "KARARSIZ"
+ },
+ "tum": {
+  "n_vaka": 698,
+  "n_kontrol": 19920,
+  "lob_vaka": 0.8954154727793696,
+  "lob_kontrol": 0.8481927710843373,
+  "lob_fark": 0.04722270169503229,
+  "lob_fark_ci": [
+   0.023,
+   0.07
+  ],
+  "lob_n_vaka": 625,
+  "gibbs_vaka": 0.0704,
+  "delta_vaka": 0.4656,
+  "kararsiz_vaka": 0.464,
+  "pq_mag_medyan_vaka": 0.061123181049842046,
+  "slow_init_medyan_vaka": 12.0,
+  "septal_q_yok_vaka": 0.09169054441260745,
+  "q_V6_var_vaka": 0.7106017191977078,
+  "yas_medyan_vaka": 57.701574264202605,
+  "hr_medyan_vaka": 74.22068737317343,
+  "lob_n_kontrol": 16896,
+  "gibbs_kontrol": 0.08345170454545454,
+  "delta_kontrol": 0.3358783143939394,
+  "kararsiz_kontrol": 0.5806699810606061,
+  "pq_mag_medyan_kontrol": 0.04232879455319487,
+  "slow_init_medyan_kontrol": 10.0,
+  "septal_q_yok_kontrol": 0.04538152610441767,
+  "q_V6_var_kontrol": 0.7816265060240963,
+  "yas_medyan_kontrol": 61.82067077344285,
+  "hr_medyan_kontrol": 74.90636704119851,
+  "slow_init_fark_ci": [
+   0.0,
+   2.0
+  ],
+  "uyum_tum": [
+   0.1480087674306976,
+   0.0914423748434069,
+   0.00019998000199980003
+  ],
+  "uyum_loblu": [
+   0.14980183760432925,
+   0.09705868900685827,
+   0.0008999100089991
+  ],
+  "kontrol_rastgele_delta_corr": 0.10052749578801089
+ }
+}

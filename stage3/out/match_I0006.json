@@ -1,0 +1,16 @@
+{
+ "k1": {
+  "pool": 19934,
+  "matched": 173,
+  "of": 185,
+  "controls": 755,
+  "full_sets": 131
+ },
+ "k2": {
+  "pool": 2992,
+  "matched": 127,
+  "of": 185,
+  "controls": 223,
+  "full_sets": 96
+ }
+}

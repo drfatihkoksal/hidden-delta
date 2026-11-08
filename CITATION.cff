@@ -16,6 +16,9 @@ identifiers:
   - type: doi
     value: "10.5281/zenodo.24050674"
     description: "Zenodo DOI of version 1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.24050968"
+    description: "Zenodo DOI of version 1.0.1"
 license: MIT
 repository-code: "https://github.com/drfatihkoksal/hidden-delta"
 keywords:

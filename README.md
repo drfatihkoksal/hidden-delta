@@ -62,6 +62,7 @@ On one RTX 5090 GPU, training M1 took about 9 minutes and the raw 10-s model abo
 | `stage5/s5_self_similarity.py` | The initial-QRS agreement measure between two pre-excitation-free ECGs of the same person, as a reference for the registered own-pathway test |
 | `stage5/s5_before_after.py` | AUROC by timing of the index ECG relative to the first pre-excited ECG |
 | `stage4/s4_label_strength.py` | AUROC by the number of label sources that stated pre-excitation, and in ECGs with strict PR and QRS limits |
+| `stage5/s5_by_sex.py` | AUROC in women and men (matched sets are exact on sex) |
 
 ## Environment
 
